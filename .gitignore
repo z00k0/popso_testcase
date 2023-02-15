@@ -1,0 +1,4 @@
+*.pyc
+/venv
+.env.dev
+/parser/test.session
